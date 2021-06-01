@@ -15,6 +15,7 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally using gradle:
+Execute all db queries mentioned in project "/server-ManageSubscription/.gradle/db" folder
 
 ```
 $ cd ../server-manageSubscription
