@@ -21,6 +21,8 @@ $ cd ../server-manageSubscription
 $ ./gradlew build --refresh-dependencies
 $ ./gradlew clean build -x check
 
+Execute all db queries mentioned in project "/server-ManageSubscription//db" folder
+
 $ The database detail is stored in `application.properties.
 spring.datasource.url=jdbc:${DB_URL}?useSSL=false
 spring.datasource.username=root:${DB_USERNAME}
